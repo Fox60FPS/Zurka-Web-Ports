@@ -1,3 +1,3 @@
 # Ports
 
-This folder is designated for HTML files. You can upload your HTML files here.
+This folder is designated for idk games, If they don't work I dunno what to do
